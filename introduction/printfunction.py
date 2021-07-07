@@ -6,6 +6,7 @@ def printfunction(n):
         res = res + str(i)
     print(res)
 
-printfunction(3)
+printfunction(int(input()))
+
 
 
