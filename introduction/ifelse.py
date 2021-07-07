@@ -13,4 +13,5 @@ def ifelse(n):
             print("Not Weird")
         else: 
             print("Not Weird")
-ifelse(3)
+ifelse(int(input().strip()))
+
