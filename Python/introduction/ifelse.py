@@ -1,5 +1,3 @@
-#! /usr/bin/env python3
-
 def ifelse(n):
     if n % 2 == 1:
         print("Weird")
