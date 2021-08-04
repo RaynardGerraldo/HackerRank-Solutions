@@ -1,4 +1,4 @@
-# My-HackerRank-Solutions
+# HackerRank-Solutions
 My HackerRank solutions to keep track of my progress
 
 All solutions are coded in Python
